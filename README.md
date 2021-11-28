@@ -2,7 +2,7 @@
 
 ## git commands
 
-1 - clone
-2 - add
-3 - push
-4 - pull
+1 - clone/n
+2 - add/n
+3 - push/n
+4 - pull/n
